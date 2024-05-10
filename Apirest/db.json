@@ -1,0 +1,22 @@
+{
+  "start": [
+    {
+      "id": 1,
+      "Introducción": ""
+    }
+  ],
+  "Fases": [
+    {
+      "id": "1",
+      "title": "Codigo morse",
+      "descripcion": "Descrifra el mensaje con el codigo morse"
+    }
+  ],
+  "actividad": [
+    {
+      "src": "https://drive.google.com/file/d/1hcZB6ZmWidHDUwnMvvujQIBT_8UKLc38/view?usp=sharing",
+      "pista": "https://l1nk.dev/bPbNh",
+      "containier": "MP4"
+    }
+  ]
+}
